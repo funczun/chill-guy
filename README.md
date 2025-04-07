@@ -16,12 +16,14 @@
 ### 1.
 > 타이머가 줄어들고 있어요! <br>
 > 어서 숫자 조합을 찾아야 해요! <br>
-<img src="https://github.com/user-attachments/assets/a5afb0c5-417c-4388-8376-4aca9ceee629" width="600"/> <br>
+<img src="https://github.com/user-attachments/assets/a5afb0c5-417c-4388-8376-4aca9ceee629" width="600"/>
+<br>
 
 ### 2.
 > `4`와 `4`가 더해져 `8`이라는 숫자 묶음을 만들었네요!<br>
 > 과연 chill한 묶음일까요?<br>
-<img src="https://github.com/user-attachments/assets/d1b74ae1-0b35-4b81-b19c-46909693191f" width="600"/> <br>
+<img src="https://github.com/user-attachments/assets/d1b74ae1-0b35-4b81-b19c-46909693191f" width="600"/>
+<br>
 
 ### 3.
 > 틀려도 괜찮아요! <br>
