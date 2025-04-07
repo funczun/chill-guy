@@ -21,7 +21,7 @@ BOARD_HEIGHT = ROWS * CELL_SIZE
 TIMER_INITIAL = 30
 
 # 파일 경로 설정
-ICON_IMAGE_PATH = "chill-guy/assets/icon.png"
-ITEM_IMAGE_PATH = "chill-guy/assets/item.png"
-CORRECT_IMAGE_PATH = "chill-guy/assets/chill-01.png"
-INCORRECT_IMAGE_PATH = "chill-guy/assets/chill-02.png"
+ICON_IMAGE_PATH = "assets/icon.png"
+ITEM_IMAGE_PATH = "assets/item.png"
+CORRECT_IMAGE_PATH = "assets/chill-01.png"
+INCORRECT_IMAGE_PATH = "assets/chill-02.png"
